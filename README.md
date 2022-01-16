@@ -1,4 +1,4 @@
-- Hi, I’m @Nevelis
+- Hi, I’m @Nedelis
 - I’m currently learning Java
 
 <!---
